@@ -9,6 +9,7 @@ Sou um desenvolvedor web e de software apaixonado por aprendizado, tecnologia, l
 ### O que eu faço?
 Embora a maior parte dos meus repositórios seja focada em **Frontend** (criando UIs limpas e acessíveis), eu cultivo muitos gostos por outros lados da computação. Meus interesses e projetos atuais incluem:
 
+- **Programação Competitiva (CP):** Resolução de problemas algorítmicos e foco em otimização de tempo e memória utilizando C++.
 - **Criptografia:** Projetos pessoais explorando algoritmos e segurança.
 - **Data Science & Automação (Pokémon GO / PGSharp):** Desenvolvimento de scripts em Python para cálculo de distâncias, tempos de cooldown e geração de gráficos comparativos de XP entre jogadores.
 - **Sistemas & Scripts:** Brincando com Bash e automações do dia a dia.
@@ -21,6 +22,7 @@ Embora a maior parte dos meus repositórios seja focada em **Frontend** (criando
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge&logo=assembly&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -60,6 +62,9 @@ Acredito que a  música e a programação podem andar de mãos dadas. Sou violin
   </a>
   <a href="https://www.instagram.com/erik.minsoo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@erikchungviolinsoloist1429">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
