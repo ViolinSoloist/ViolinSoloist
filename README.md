@@ -1,22 +1,23 @@
-# Olá! Eu sou o Erik 
+# Olá, eu sou o Erik Chung. 
 
-**Graduando em Ciência da Computação (BCC) pela USP** | Ex-aluno do Colégio Objetivo Integrado
+**Graduando em Ciência da Computação (BCC) na USP** | Ex-aluno do Colégio Objetivo Integrado
 
-Sou um desenvolvedor web e de software apaixonado por aprendizado, tecnologia, lógica e arte. Minha jornada vai desde Assembly e C até a criação de interfaces modernas ou amigáveis no Frontend. Quando não estou preso no Vim ou no Linux, você provavelmente me encontrará tocando violino ou pensando em projetos pessoais. Ou talvez nos dois.
-
----
-
-### O que eu faço?
-Embora a maior parte dos meus repositórios seja focada em **Frontend** (criando UIs limpas e acessíveis), eu cultivo muitos gostos por outros lados da computação. Meus interesses e projetos atuais incluem:
-
-- **Programação Competitiva (CP):** Resolução de problemas algorítmicos e foco em otimização de tempo e memória utilizando C++.
-- **Criptografia:** Projetos pessoais explorando algoritmos e segurança.
-- **Data Science & Automação (Pokémon GO / PGSharp):** Desenvolvimento de scripts em Python para cálculo de distâncias, tempos de cooldown e geração de gráficos comparativos de XP entre jogadores.
-- **Sistemas & Scripts:** Brincando com Bash e automações do dia a dia.
+Sou estudante de Computação com interesse em explorar diferentes camadas do desenvolvimento de software, desde conceitos de baixo nível até o ecossistema web. Divido meu tempo entre a universidade, a construção de projetos pessoais e os estudos de violino. 
 
 ---
 
-### Ferramentas e Tecnologias
+### Áreas de Interesse e Foco de Estudo
+
+Meu repositório reflete uma mistura de trabalhos acadêmicos, experimentações e estudos contínuos. Atualmente, tenho focado nas seguintes áreas:
+
+- **Estruturas de Dados e Algoritmos:** Prática em programação competitiva utilizando C++ com foco em otimização de tempo e memória.
+- **Desenvolvimento Web e APIs:** Construção de aplicações Frontend e consumo de serviços web.
+- **Automação e Scripts:** Uso de Python e Bash para modelagem de dados (como mecânicas de jogos), cálculos de métricas e otimização de tarefas cotidianas.
+- **Sistemas de Baixo Nível e Criptografia:** Implementação de conceitos estruturais em C e Assembly, e desenvolvimento de algoritmos de segurança baseados em criptografia.
+
+---
+
+### Tecnologias e Ferramentas
 
 **Linguagens & Web**
 <p>
@@ -31,7 +32,7 @@ Embora a maior parte dos meus repositórios seja focada em **Frontend** (criando
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-**Ferramentas & SO**
+**Ambiente & SO**
 <p>
   <img src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-87A94A?style=for-the-badge&logo=linux-mint&logoColor=white" />
@@ -41,20 +42,17 @@ Embora a maior parte dos meus repositórios seja focada em **Frontend** (criando
 
 ---
 
-### 🎻 Muito além do código...
+### 🎻 Além da tela
 
-Acredito que a  música e a programação podem andar de mãos dadas. Sou violinista e gosto de compartilhar um pouco dessa arte.
+Sou violinista clássico e mantenho uma rotina ativa de estudos musicais. Tenho bastante interesse em explorar, futuramente, projetos que unam teoria musical, processamento de áudio e programação. Assim, integrar a ***ciência da música*** com a ***arte da programação***.
 
-> ### Além disso, pretendo futuramente incluir projetos que integrem a ***ciência da música*** com a ***arte da programação***.
-
-▶️ **[Confira aqui minha última performance ;)](https://www.instagram.com/reel/DaL-eRuxzrl/?utm_source=ig_web_button_share_sheet)**
+▶️ **[Acompanhe aqui minha última performance no violino](https://www.instagram.com/reel/DaL-eRuxzrl/?utm_source=ig_web_button_share_sheet)**
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
 <p>
-  <!-- Substitua os "#" abaixo pelos links reais do seu perfil -->
   <a href="mailto:erikmschung@usp.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -67,9 +65,4 @@ Acredito que a  música e a programação podem andar de mãos dadas. Sou violin
   <a href="https://www.youtube.com/@erikchungviolinsoloist1429">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViolinSoloist&label=Visitas+ao+perfil&color=002E7A&style=flat" alt="Contador de Visitas" />
 </p>
